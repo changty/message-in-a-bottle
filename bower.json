@@ -1,0 +1,23 @@
+{
+  "name": "message-in-a-bottle",
+  "description": "Leave a message in a spesific location and collect messages by going to those locations",
+  "main": "index.html",
+  "authors": [
+    "Einari Kurvinen"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "leaflet": "^0.7.7",
+    "animate.css": "animate-css#^3.5.2"
+  }
+}

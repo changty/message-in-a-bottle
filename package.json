@@ -1,0 +1,11 @@
+{
+  "name": "message-in-a-bottle",
+  "version": "1.0.0",
+  "description": "Leave a message in a spesific location and collect messages by going to those locations",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Einari Kurvinen",
+  "license": "Apache-2.0"
+}
